@@ -1,0 +1,21 @@
+ml:
+  name: "Machine Learning"
+  tag: ml
+  description: "
+    DESCRIPTION
+  "
+
+quad:
+  name: "Quadcopter"
+  tag: quad
+  description: "
+    DESCRIPTION
+  "
+
+robot:
+  name: "Robotics"
+  tag: robot
+  description: "
+    DESCRIPTION
+  "
+

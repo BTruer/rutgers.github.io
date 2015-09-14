@@ -1,21 +1,14 @@
 ---
-layout: default
-title: Main
+layout: page
+title: Quadcopter
 ---
-
 <div>
-	<h1>Current Projects</h1>
-	{% for team in site.data.teams %}
-
-	<h2><a href="{{site.root}}{{team[0]}}">{{team[1].name}}</a></h2>
-	<p>{{team[1].description}}</p>
-
-	{% endfor %}
-
-
+	{{ site.data.teams.quad.description }}
 </div>
+<br>
+
 <div class="posts">
-  {% assign posts = site.posts| where: "category","general" %}
+  {% assign posts = site.posts| where: "category","quad" %}
   {% for post in posts %}
   <div class="post">
     <h1 class="post-title">
