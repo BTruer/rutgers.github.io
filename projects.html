@@ -1,14 +1,21 @@
 ---
 layout: page
-title: Quadcopter
+title: Projects
 ---
-<div>
-	{{ site.data.teams.quad.description }}
-</div>
-<br>
 
+<div>
+	<h1>Current Projects</h1>
+	{% for team in site.data.teams %}
+
+	<h2><a href="{{site.root}}{{team[0]}}">{{team[1].name}}</a></h2>
+	<p>{{team[1].description}}</p>
+
+	{% endfor %}
+
+
+</div>
 <div class="posts">
-  {% assign posts = site.posts| where: "category","quad" %}
+  {% assign posts = site.posts %}
   {% for post in posts %}
   <div class="post">
     <h1 class="post-title">

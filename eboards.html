@@ -1,0 +1,32 @@
+---
+layout: page
+title: Executive Boards
+---
+
+<div>
+
+	{% for year in site.data.eboards %}
+		<h1>{{ year[0] }}</h1>
+
+		<table>
+			{% for person in year[1] %}
+			<tr>
+				<td> {{ person[1].role }} </td>
+				<td>
+					{% if person[1].url %}
+					<a href="{{person[1].url}}">{{ person[1].name }}</a>
+					{% else %}
+					{{ person[1].name }}
+					{% endif %}
+
+					<br>
+
+					{{ person[1].class }}
+				</td>
+
+			</tr>
+			{% endfor %}
+		</table>
+
+	{% endfor %}
+</div>

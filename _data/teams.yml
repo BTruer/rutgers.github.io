@@ -1,5 +1,6 @@
 ml:
   name: "Machine Learning"
+  active: true
   tag: ml
   description: "
     DESCRIPTION
@@ -7,6 +8,7 @@ ml:
 
 quad:
   name: "Quadcopter"
+  active: true
   tag: quad
   description: "
     DESCRIPTION
@@ -14,6 +16,7 @@ quad:
 
 robot:
   name: "Robotics"
+  active: true
   tag: robot
   description: "
     DESCRIPTION

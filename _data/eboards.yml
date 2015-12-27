@@ -1,0 +1,160 @@
+2015-2016:
+    president:
+        name: "Nikhil Shenoy"
+        role: "President"
+        class: "ECE/CS 2016"
+    vp:
+        name: "Niral Shah"
+        role: "Vice President"
+        class: "ECE/CS 2017"
+    treasurer:
+        name: "Jeremy Savarin"
+        role: "Treasurer"
+        class: "ECE 2017"
+    tech:
+        name: "Revan Sopher"
+        role: "Tech Lead / Webmaster"
+        class: "ECE/CS 2016"
+        url: "http://revan.io"
+    egc:
+        name: "Sam Lotsvin"
+        role: "EGC Representative"
+        class: "CS/Math 2017"
+    secretary:
+        name: "Ravi Bhankharia"
+        role: "Secretary"
+        class: ""
+    pr:
+        name: "Grisam Shah"
+        role: "Professional Relations"
+        class: "ECE/CS 2017"
+    quartermaster:
+        name: "Matt Chan"
+        role: "Quartermaster"
+        class: ""
+
+2014-2015:
+    president:
+        name: "Dave Patrzeba"
+        role: "President"
+        class: "ECE 2015"
+    vp:
+        name: "Nikhil Shenoy"
+        role: "Vice President"
+        class: "ECE/CS 2016"
+    treasurer:
+        name: "Kirshna Raja"
+        role: "Treasurer"
+        class: ""
+    secretary:
+        name: "Niral Shah"
+        role: "Secretary"
+        class: "ECE/CS 2017"
+    egc:
+        name: "Jeremy Savarin"
+        role: "EGC Representative"
+        class: "ECE 2017"
+
+2013-2014:
+    president:
+        name: "Wayne Chang"
+        role: "President"
+        class: "ECE 2014"
+    vp:
+        name: "Dave Patrzeba"
+        role: "Vice President"
+        class: "ECE 2015"
+    treasurer:
+        name: "Kenny Bambridge"
+        role: "Treasurer"
+        class: ""
+    secretary:
+        name: "Kirshna Raja"
+        role: "Secretary / EGC Representative"
+        class: ""
+    pr:
+        name: "Nikhil Shenoy"
+        role: "Professional Relations"
+        class: "ECE/CS 2016"
+2012-2013:
+    president:
+        name: "Elie Rosen"
+        role: "President"
+        class: "ECE 2013"
+    vp:
+        name: "Phillip Quiza"
+        role: "Internal Vice President"
+        class: "CS 2013"
+    vp2:
+        name: "Wayne Chang"
+        role: "External Vice President"
+        class: "ECE 2014"
+    treasurer:
+        name: "Dave Patrzeba"
+        role: "Treasurer"
+        class: "ECE 2015"
+    secretary:
+        name: "Parth Patel"
+        role: "Secretary"
+        class: "ECE 2014"
+    egc:
+        name: "Evan Clements"
+        role: "EGC Representative"
+        class: "ECE 2016"
+
+2011-2012:
+    president:
+        name: "Michael Koval"
+        role: "President"
+        class: "ECE/CS 2012"
+    vp:
+        name: "Elie Rosen"
+        role: "Vice President"
+        class: "ECE 2013"
+    treasurer:
+        name: "Phillip Quiza"
+        role: "Treasurer"
+        class: "CS 2013"
+    secretary:
+        name: "Jennifer Padgett"
+        role: "Secretary"
+        class: "ECE 2012"
+    mech:
+        name: "Peter Vasilnak"
+        role: "Lead Mechanical Engineer"
+        class: "Mech Aero Eng 2012"
+    egc:
+        name: "Jeffery DeLucca, Parth Patel"
+        role: "EGC Representative"
+        class: "Mech Aero Eng 2012, ECE 2014"
+
+2010-2011:
+    president:
+        name: "Adam Stambler"
+        role: "President"
+        class: "ECE 2011"
+    vp:
+        name: "Michael Koval"
+        role: "Internal Vice President"
+        class: "ECE 2012"
+    vp2:
+        name: "Nancy Andia"
+        role: "External Vice President"
+        class: "ECE 2012"
+    treasurer:
+        name: "Jordan Romvary"
+        role: "Treasurer"
+        class: "ECE 2012"
+    secretary:
+        name: "John Marcus"
+        role: "Secretary"
+        class: "ECE 2012"
+    egc:
+        name: "Jeffrey DeLucca"
+        role: "EGC Representative"
+        class: "Mech Aero 2012"
+    web:
+        name: "Elie Rosen"
+        role: "Webmaster"
+        class: "ECE 2013"
+
