@@ -1,24 +1,42 @@
-ml:
-  name: "Machine Learning"
+robot:
+  name: "Robotics"
   active: true
-  tag: ml
+  lead: "Tim Yong, Jon Risinger"
   description: "
-    DESCRIPTION
+      Autonomous robots.
+      ![](/public/robotics1.jpg)
+      ![](/public/robotics2.jpg)
+      ![](/public/robotics3.jpg)
   "
 
 quad:
   name: "Quadcopter"
   active: true
-  tag: quad
+  lead: "Grisam Shah, Niral Shah"
   description: "
     DESCRIPTION
   "
 
-robot:
-  name: "Robotics"
+ml:
+  name: "Machine Learning"
   active: true
-  tag: robot
+  lead: "Nikhil Shenoy and Revan Sopher"
   description: "
-    DESCRIPTION
+    The machine learning team explored the fundamentals of data science with live lectures on elementary classifiers, video lectures on the numpy/pandas ecosystem, and playing with competition datasets.
+    ![](/public/ml1.jpg)
   "
 
+igvc:
+  name: "Intelligent Ground Vehicle Competition"
+  active: false
+  description: "[archive](http://ieee.rutgers.edu/intelligent-ground-vehicle-competition)"
+
+vex:
+  name: "Vex Robotics Competition"
+  active: false
+  description: "[archive](http://ieee.rutgers.edu/vex-robotics-competition)"
+
+micromouse:
+  name: "Micromouse Competition"
+  active: false
+  description: "[archive](http://ieee.rutgers.edu/micromouse-competition)]"

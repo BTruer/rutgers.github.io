@@ -4,14 +4,28 @@ title: Projects
 ---
 
 <div>
-	<h1>Current Projects</h1>
+	<h2>Current</h2>
 	{% for team in site.data.teams %}
 
-	<h2><a href="{{site.root}}{{team[0]}}">{{team[1].name}}</a></h2>
-	<p>{{team[1].description}}</p>
+	{% if team[1].active == true %}
+	<h3>{{team[1].name}}</h3>
+	{% if team[1].lead %} Lead: {{ team[1].lead }} {% endif %}
+	<p>{{team[1].description | markdownify}}</p>
+	{% endif %}
 
 	{% endfor %}
 
+
+	<h2>Past</h2>
+	{% for team in site.data.teams %}
+
+	{% if team[1].active != true %}
+	<h3>{{team[1].name}}</h3>
+	{% if team[1].lead %} Lead: {{ team[1].lead }} {% endif %}
+	<p>{{team[1].description | markdownify}}</p>
+	{% endif %}
+
+	{% endfor %}
 
 </div>
 <div class="posts">
