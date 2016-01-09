@@ -3,7 +3,7 @@ robot:
   active: true
   lead: "Tim Yong, Jon Risinger"
   description: "
-      Autonomous robots.
+      The Robotics team builds autonomous robots.
       ![](/public/robotics1.jpg)
       ![](/public/robotics2.jpg)
       ![](/public/robotics3.jpg)
@@ -14,13 +14,14 @@ quad:
   active: true
   lead: "Grisam Shah, Niral Shah"
   description: "
-    DESCRIPTION
+    The Quadcopter Team is exploring the fundamentals behind unmanned autonomous vehicles.
+    Lectures are taught by the team leads as we learn how to program unmanned autonomous flights. 
   "
 
 ml:
   name: "Machine Learning"
   active: true
-  lead: "Nikhil Shenoy and Revan Sopher"
+  lead: "Nikhil Shenoy, Revan Sopher, Sam Lotsvin"
   description: "
     The machine learning team explored the fundamentals of data science with live lectures on elementary classifiers, video lectures on the numpy/pandas ecosystem, and playing with competition datasets.
     ![](/public/ml1.jpg)
