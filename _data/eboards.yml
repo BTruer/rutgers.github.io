@@ -1,3 +1,37 @@
+2016-2017:
+    president:
+        name: "Niral Shah"
+        role: "President"
+        class: "ECE/CS 2017"
+    vp:
+        name: "Ravi Bhankharia"
+        role: "Vice President"
+        class: "ECE/CS 2017"
+    treasurer:
+        name: "Jeremy Savarin"
+        role: "Treasurer"
+        class: "ECE 2017"
+    tech:
+        name: "Revan Sopher"
+        role: "Tech Lead / Webmaster"
+        class: "ECE/CS 2016"
+        url: "http://revan.io"
+    egc:
+        name: "Sam Lotsvin"
+        role: "EGC Representative"
+        class: "CS/Math 2017"
+    secretary:
+        name: "Ravi Bhankharia"
+        role: "Secretary"
+        class: "ECE/CS 2017"
+    pr:
+        name: "Grisam Shah"
+        role: "Professional Relations"
+        class: "ECE/CS 2017"
+    quartermaster:
+        name: "Matt Chan"
+        role: "Quartermaster"
+        class: "ECE 2017"
 2015-2016:
     president:
         name: "Nikhil Shenoy"
@@ -157,4 +191,3 @@
         name: "Elie Rosen"
         role: "Webmaster"
         class: "ECE 2013"
-

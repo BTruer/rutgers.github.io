@@ -8,15 +8,18 @@ permalink:        pretty
 # Setup
 title:            Rutgers IEEE
 tagline:          Student Branch
-description:      
-url:              
+description:
+url:
 baseurl:          /
 
 author:
-  name:           
-  url:            
+  name:
+  url:
 
 paginate:         5
 
 github:
   org:           https://github.com/rutgers
+
+# Gems
+gems: [jekyll-paginate]
