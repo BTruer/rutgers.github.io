@@ -1,10 +1,14 @@
-# [Former] Rutgers IEEE Website. Current [repo](https://github.com/rutgers/RutgersIEEE-Website)
+# Rutgers IEEE Website
 
-Because we need some sort of web presence.
+Our web presence.
 
-To future maintainers: this is an automatically generated static website.
-Edit the files `_data/eboards.yml` and `_data/teams.yml` with updated information and push to regenerate the website.
-If something breaks, yell at Revan.
+## How to contribute
 
-To build locally, install the github pages gem: `sudo gem install -g github-pages` then `jekyll serve --watch`.
+## Todo
 
+* mailchip mailing list
+* Blog posts for each team
+* pictures
+* calendar on dash
+* google anaytics
+* 1 click and push for contributers

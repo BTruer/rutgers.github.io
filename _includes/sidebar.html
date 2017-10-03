@@ -1,36 +1,46 @@
 <div class="sidebar">
-  <div class="container sidebar-sticky">
-
-    <img src="/img/logo.png">
-    <div class="sidebar-about">
-      <h1>
+    <div class="container sidebar-sticky" style="position: initial;">
         <a href="{{ site.baseurl }}">
-          {{ site.title }}
+          <img src="/img/RutgersLogoWhiteHighlightTransparentShadowV2.png" style="float:top";>  
         </a>
-      </h1>
-      <p class="lead">{{ site.description }}</p>
+        <nav class="sidebar-nav" style="font-size: large;">
+            <a class="sidebar-nav-item" href='{{ site.baseurl }}'>
+                Dashboard
+            </a>
+            <a class="sidebar-nav-item" href='{{ site.url }}/about'>
+                About
+            </a>
+            <a class="sidebar-nav-item" href='{{ site.url }}/contact'>
+                Contact
+            </a>
+            <a class="sidebar-nav-item" href='{{ site.url }}/eboards'>
+                Eboard
+            </a>
+            <a class="sidebar-nav-item" href='{{ site.url }}/robotics'>
+                Robotics
+            </a>
+            <a class="sidebar-nav-item" href='{{ site.url }}/drones'>
+                Drones
+            </a>
+            <a class="sidebar-nav-item" href='{{ site.url }}/mlai'>
+                Machine Learning/AI
+            </a>
+            <a class="sidebar-nav-item" href='{{ site.url }}/sigandsec'>
+                Signals&Security
+            </a>
+            <a class="sidebar-nav-item" href='{{ site.url }}/coding'>
+                Coding
+            </a>
+            <a class="sidebar-nav-item" href='{{ site.url }}/electronics'>
+                Electronics
+            </a>
+            <a class="sidebar-nav-item" href='{{ site.url }}/discover'>
+                Discover
+            </a>
+            <a class="sidebar-nav-item" href='{{ site.url }}/inspire'>
+                Inspire            </a>    
+            <a class="sidebar-nav-item" href="{{ site.github.org }}"  target="_blank">GitHub</a>
+        </nav>
+        <p style="font-size: small;">&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
     </div>
-
-    <nav class="sidebar-nav">
-      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">About</a>
-
-      {% comment %}
-        The code below dynamically generates a sidebar nav of pages with
-        `layout: page` in the front-matter. See readme for usage.
-      {% endcomment %}
-
-      {% assign pages_list = site.pages %}
-      {% for node in pages_list %}
-        {% if node.title != null %}
-          {% if node.layout == "page" %}
-            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
-          {% endif %}
-        {% endif %}
-      {% endfor %}
-
-      <a class="sidebar-nav-item" href="{{ site.github.org }}">GitHub</a>
-    </nav>
-
-    <p>&copy; 2017. All rights reserved.</p>
-  </div>
 </div>

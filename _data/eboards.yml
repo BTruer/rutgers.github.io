@@ -9,29 +9,41 @@
         class: "ECE/CS 2017"
     treasurer:
         name: "Jeremy Savarin"
-        role: "Treasurer"
-        class: "ECE 2017"
-    tech:
-        name: "Revan Sopher"
-        role: "Tech Lead / Webmaster"
-        class: "ECE/CS 2016"
-        url: "http://revan.io"
-    egc:
-        name: "Sam Lotsvin"
-        role: "EGC Representative"
-        class: "CS/Math 2017"
+        role: "Treasurer/Webmaster"
+        class: "ECE/CS 2017"
     secretary:
-        name: "Ravi Bhankharia"
+        name: "Kristian Wu"
         role: "Secretary"
-        class: "ECE/CS 2017"
+        class: "ECE/CS 2019"
     pr:
-        name: "Grisam Shah"
+        name: "Deepti Upmaka"
         role: "Professional Relations"
-        class: "ECE/CS 2017"
+        class: "ECE/CS 2019"
     quartermaster:
-        name: "Matt Chan"
+        name: "Sam Lotsvin"
         role: "Quartermaster"
         class: "ECE 2017"
+    egc:
+        name: "Samrat Darisipudi"
+        role: "EGC Representative"
+        class: "CS 2019"
+    ml:
+        name: "Shu Chen"
+        role: "Machine Learning Lead"
+        class: "CS 2019"
+    rob:
+        name: "Ajay Srivastava"
+        role: "Robotics Team Lead"
+        class: "ECE/CS 2017"
+    rob2:
+        name: "Srihari Chekuri"
+        role: "Robotics Team Lead"
+        class: "ECE 2017"
+    isn:
+        name: "Michael Collins"
+        role: "ISN Lead"
+        class: "ECE 2018"
+
 2015-2016:
     president:
         name: "Nikhil Shenoy"
@@ -191,3 +203,4 @@
         name: "Elie Rosen"
         role: "Webmaster"
         class: "ECE 2013"
+
