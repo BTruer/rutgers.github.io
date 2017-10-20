@@ -9,8 +9,8 @@ permalink:        pretty
 title:            Rutgers IEEE
 tagline:          Student Branch
 description:      Rutgers IEEE Student Branch
-url: https://rutgers.github.io
-#url: http://localhost:4000
+#url: https://rutgers.github.io
+url: http://localhost:4000
 baseurl:          ''
 
 author:
