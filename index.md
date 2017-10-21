@@ -27,15 +27,21 @@ WEBREG WORKSHOP | WEDNESDAY OCT 25 | LOCATION TBA
 
 # Facebook
 
-Rutgers IEEE Facebook page
-Rutgers IEEE Facebook group
-Rutgers IEEE Robotics
-Rutgers IEEE Drones
++ [Rutgers IEEE Facebook page](https://www.facebook.com/RutgersIEEE/)
++ [Rutgers IEEE Facebook group](https://www.facebook.com/groups/RutgersIEEEGroup/)
++ [Rutgers IEEE Robotics](https://www.facebook.com/groups/RutgersIEEE.Robotics/)
++ [Rutgers IEEE Drones](https://www.facebook.com/groups/RutgersIEEE.Drones/)
++ [Rutgers IEEE MLAI](https://www.facebook.com/groups/RutgersIEEE.MLAI/)
++ [Coding](https://www.facebook.com/groups/RutgersIEEE.N2E/)
 
 # Groupme
 
-Rutgers IEEE
-Rutgers IEEE 
++ [Rutgers IEEE](https://web.groupme.com/join_group/33255110/uLnNfM)
++ [Robotics](https://app.groupme.com/join_group/34253511/ODdboQ)
++ [Micromouse/Pacbot](https://app.groupme.com/join_group/34253137/mkCBvk)
++ [VEX](https://groupme.com/join_group/34253209/YLsw9t)
++ [Drones](https://app.groupme.com/join_group/34253450/MciSjt)
+
 
 # New Fall 2017 Mailing List
 (in the works)

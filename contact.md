@@ -10,15 +10,26 @@ rutgers.ieee@gmail.com
 (609) 831-IEEE
 
 # WEBSITE
-rutgers.github.io  ||  ieee.rutgers.edu
+[rutgers.github.io](rutgers.github.io)  OR  [ieee.rutgers.edu]((rutgers.github.io))
 
 # FACEBOOK
-facebook.com/RutgersIEEE
+[Rutgers IEEE Facebook page](https://www.facebook.com/RutgersIEEE/)
+[Rutgers IEEE Facebook group](https://www.facebook.com/groups/RutgersIEEEGroup/)
+[Rutgers IEEE Robotics](https://www.facebook.com/groups/RutgersIEEE.Robotics/)
+[Rutgers IEEE Drones](https://www.facebook.com/groups/RutgersIEEE.Drones/)
+[Rutgers IEEE MLAI](https://www.facebook.com/groups/RutgersIEEE.MLAI/)
+[Coding](https://www.facebook.com/groups/RutgersIEEE.N2E/)
 
 # GITHUB
-github.com/rutgers
+[github.com/rutgers](https://github.com/rutgers)
 
 # GROUPME
+[Rutgers IEEE](https://web.groupme.com/join_group/33255110/uLnNfM)
+[Robotics](https://app.groupme.com/join_group/34253511/ODdboQ)
+[Micromouse/Pacbot](https://app.groupme.com/join_group/34253137/mkCBvk)
+[VEX](https://groupme.com/join_group/34253209/YLsw9t)
+[Drones](https://app.groupme.com/join_group/34253450/MciSjt)
+
 
 # Mailing Address
 Rutgers IEEE Student Branch
