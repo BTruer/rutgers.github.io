@@ -9,7 +9,7 @@ Team | Location | Date
 Robotics Intro Series Meeting | EE Building Basement | Monday and Tuesday 8:00 pm - 10:00 pm
 Robotics VEX Meeting | EE Building Basement | Thursday 8:00 pm - 10:00 pm
 Robotics MicroMouse/Pacbot Meeting | EE Building Basement | Tuesday 8:00 pm - 10:00 pm
-ML/AI Lecture Series Meeting | EE203	| Thursday 8:00 pm - 10:00 pm
+ML/AI Lecture Series Meeting | EE203 | Thursday 8:00 pm - 10:00 pm
 ML/AI Paper Seminar	| EE203 | Monday 8:00 pm - 9:30 pm
 Quadcopter Meeting | EE203 | Tuesday 8:30 pm - 10:00 pm
 Coding: Java | SERC 2nd floor | Monday 8pm - 9pm
@@ -30,6 +30,8 @@ LOCKHEED INTERVIEW WORKSHOP | MONDAY OCT 2 7:00-10:00 PM | BCC 174
 `git` WORKSHOP | WEDNESDAY OCT 11 8:00 - 11:00 | BCC
 PANEL DAY w/ HKN | WEDNESDAY OCT 18 | LOCATION BCC 128B 8PM
 WEBREG WORKSHOP | WEDNESDAY OCT 25 | LOCATION BCC 128B 8PM
+`git` & Website creation WORKSHOP | WEDNESDAY NOV 1 | BCC 128B 8PM
+Python for Java Programmers WORKSHOP | WEDNESDAY NOV 8 | BCC 128B 8PM
 A* Robotics Tutorial | NOVEMBER 15 | LOCATION BCC 128B 8PM
 Division Progress Showcase | NOVEMBER 29 | BCC
 
